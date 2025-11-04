@@ -5,20 +5,20 @@
 
 ---
 
-- [Transformar String em Array]()
+- [Transformar String em Array](https://github.com/Kanekovisks/6-Truques-Em-JavaScript/blob/main/C%C3%B3digos/StringToArray.js)
 
 ---
 
-- [Transformar Objeto em Array]()
+- [Transformar Objeto em Array](https://github.com/Kanekovisks/6-Truques-Em-JavaScript/blob/main/C%C3%B3digos/ObjToArray.js)
 
 ---
 
-- [Clonar Arrays]()
+- [Clonar Arrays](https://github.com/Kanekovisks/6-Truques-Em-JavaScript/blob/main/C%C3%B3digos/ArrayClone.js)
 
 ---
 
-- [Clonar Objetos]()
+- [Clonar Objetos](https://github.com/Kanekovisks/6-Truques-Em-JavaScript/blob/main/C%C3%B3digos/ObjClone.js)
 
 ---
 
-- [Arrow Functions]()
+- [Arrow Functions](https://github.com/Kanekovisks/6-Truques-Em-JavaScript/blob/main/C%C3%B3digos/ArrowFunction.js)
