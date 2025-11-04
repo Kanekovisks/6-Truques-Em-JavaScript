@@ -3,12 +3,22 @@
 
 ## Vídeo no youtube
 
+---
+
 - [Transformar String em Array]()
+
+---
 
 - [Transformar Objeto em Array]()
 
+---
+
 - [Clonar Arrays]()
 
+---
+
 - [Clonar Objetos]()
+
+---
 
 - [Arrow Functions]()
