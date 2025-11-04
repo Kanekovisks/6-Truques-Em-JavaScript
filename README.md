@@ -5,6 +5,7 @@
 <a href="https://www.youtube.com/watch?v=9klHrJ2h1ko">5 Truques do JavaScript que você precisa saber</a>
 
 <img width="1280" alt="Print Truques JavaScript" src="https://github.com/Kanekovisks/5-Truques-Em-JavaScript/blob/main/Capa.png">
+
 ---
 
 - [Transformar String em Array](https://github.com/Kanekovisks/5-Truques-Em-JavaScript/blob/main/C%C3%B3digos/StringToArray.js)
